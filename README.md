@@ -74,20 +74,6 @@ and functional web systems.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamadfadilaah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadfadilaah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
